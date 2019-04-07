@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="12.7mm"
+   height="12.7mm"
+   viewBox="0 0 12.7 12.7"
+   version="1.1"
+   id="svg158"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="112.svg">
+  <defs
+     id="defs152" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="-102.57148"
+     inkscape:cy="176.00001"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:pagecheckerboard="true"
+     inkscape:window-width="1360"
+     inkscape:window-height="706"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata155">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(33.681878,-236.14989)">
+    <g
+       transform="matrix(0.26458333,0,0,0.26458333,-120.46521,178.99989)"
+       id="g335">
+      <g
+         inkscape:export-ydpi="158.89999"
+         inkscape:export-xdpi="158.89999"
+         inkscape:export-filename="D:\7++\tilv1\graphics\parts\g548.png"
+         id="g429">
+        <g
+           transform="translate(328,216)"
+           class="top-level-node"
+           id="i39">
+          <g
+             id="g248">
+            <g
+               id="g246">
+              <circle
+                 style="fill:#cc291f"
+                 id="circle244"
+                 r="24"
+                 cy="24"
+                 cx="24" />
+            </g>
+          </g>
+        </g>
+        <g
+           transform="translate(336,224)"
+           class="top-level-node"
+           id="i40">
+          <g
+             id="g261">
+            <g
+               id="g259">
+              <g
+                 id="g257">
+                <path
+                   style="clip-rule:evenodd;fill:#ffffff;fill-rule:evenodd"
+                   inkscape:connector-curvature="0"
+                   id="path251"
+                   d="M 30.8,13.2 26,18 V 14.6 C 26,13.7 25.3,13 24.4,13 H 20 6 1.6 C 0.7,13 0,13.7 0,14.6 V 27.4 C 0,28.3 0.7,29 1.6,29 H 24.4 C 25.3,29 26,28.3 26,27.4 V 24 c 1.6,1.6 3.5,3.5 4.8,4.8 0.5,0.5 1.2,0.1 1.2,-0.5 V 13.8 c 0,-0.7 -0.8,-1 -1.2,-0.6 z M 17,24 H 3 v -8 h 14 z m 4.5,-5 C 20.7,19 20,18.3 20,17.5 20,16.7 20.7,16 21.5,16 c 0.8,0 1.5,0.7 1.5,1.5 0,0.8 -0.7,1.5 -1.5,1.5 z" />
+                <circle
+                   style="clip-rule:evenodd;fill:#ffffff;fill-rule:evenodd"
+                   id="circle253"
+                   r="6"
+                   cy="7"
+                   cx="6" />
+                <circle
+                   style="clip-rule:evenodd;fill:#ffffff;fill-rule:evenodd"
+                   id="circle255"
+                   r="6"
+                   cy="7"
+                   cx="20" />
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
