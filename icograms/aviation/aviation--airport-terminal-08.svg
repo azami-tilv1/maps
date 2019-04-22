@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   enable-background="new 0 0 96 96"
+   viewBox="0 0 96 96"
+   version="1.1"
+   id="svg278"
+   sodipodi:docname="aviation--airport-terminal-08.svg"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
+  <metadata
+     id="metadata284">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs282" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview280"
+     showgrid="false"
+     inkscape:zoom="2.4583333"
+     inkscape:cx="48"
+     inkscape:cy="48"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg278" />
+  <path
+     d="m0 24v48l48 24 48-24v-48z"
+     fill="#e5e5e5"
+     id="path2" />
+  <path
+     d="m48 0 48 24-48 24-48-24z"
+     fill="#2d3134"
+     id="path4" />
+  <path
+     d="m48 0 48 24-48 24-48-24z"
+     fill="#2d3134"
+     id="path6" />
+  <path
+     d="m96 25-48 24v22l48-24z"
+     fill="#39c"
+     id="path8" />
+  <path
+     d="m53 93.5-4 2v-21l4-2z"
+     fill="#39c"
+     id="path10" />
+  <path
+     d="m53 76.5-4 2v-4l4-2z"
+     fill="#262626"
+     opacity=".15"
+     id="path12" />
+  <path
+     d="m53 74.5-4 2v-2l4-2z"
+     fill="#262626"
+     opacity=".15"
+     id="path14" />
+  <path
+     d="m53 73.5-4 2v-1l4-2z"
+     fill="#262626"
+     opacity=".15"
+     id="path16" />
+  <path
+     d="m53 79.5-4 2v-1l4-2z"
+     fill="#262626"
+     opacity=".15"
+     id="path18" />
+  <path
+     d="m53 78.5-4 2v-1l4-2z"
+     fill="#fff"
+     opacity=".7"
+     id="path20" />
+  <path
+     d="m59 90.5-4 2v-21l4-2z"
+     fill="#39c"
+     id="path22" />
+  <path
+     d="m59 73.5-4 2v-4l4-2z"
+     fill="#262626"
+     opacity=".15"
+     id="path24" />
+  <path
+     d="m59 71.5-4 2v-2l4-2z"
+     fill="#262626"
+     opacity=".15"
+     id="path26" />
+  <path
+     d="m59 70.5-4 2v-1l4-2z"
+     fill="#262626"
+     opacity=".15"
+     id="path28" />
+  <path
+     d="m59 76.5-4 2v-1l4-2z"
+     fill="#262626"
+     opacity=".15"
+     id="path30" />
+  <path
+     d="m59 75.5-4 2v-1l4-2z"
+     fill="#fff"
+     opacity=".7"
+     id="path32" />
+  <path
+     d="m65 87.5-4 2v-21l4-2z"
+     fill="#39c"
+     id="path34" />
+  <path
+     d="m65 87.5-3 1.5v-21l3-1.5z"
+     fill="#fff"
+     opacity=".2"
+     id="path36" />
+  <path
+     d="m65 70.5-4 2v-4l4-2z"
+     fill="#262626"
+     opacity=".15"
+     id="path38" />
+  <path
+     d="m65 68.5-4 2v-2l4-2z"
+     fill="#262626"
+     opacity=".15"
+     id="path40" />
+  <path
+     d="m65 67.5-4 2v-1l4-2z"
+     fill="#262626"
+     opacity=".15"
+     id="path42" />
+  <path
+     d="m65 73.5-4 2v-1l4-2z"
+     fill="#262626"
+     opacity=".15"
+     id="path44" />
+  <path
+     d="m65 72.5-4 2v-1l4-2z"
+     fill="#fff"
+     opacity=".7"
+     id="path46" />
+  <path
+     d="m71 84.5-4 2v-21l4-2z"
+     fill="#39c"
+     id="path48" />
+  <path
+     d="m71 84.5-4 2v-21l4-2z"
+     fill="#fff"
+     opacity=".3"
+     id="path50" />
+  <path
+     d="m71 67.5-4 2v-4l4-2z"
+     fill="#262626"
+     opacity=".15"
+     id="path52" />
+  <path
+     d="m71 65.5-4 2v-2l4-2z"
+     fill="#262626"
+     opacity=".15"
+     id="path54" />
+  <path
+     d="m71 64.5-4 2v-1l4-2z"
+     fill="#262626"
+     opacity=".15"
+     id="path56" />
+  <path
+     d="m71 70.5-4 2v-1l4-2z"
+     fill="#262626"
+     opacity=".15"
+     id="path58" />
+  <path
+     d="m71 69.5-4 2v-1l4-2z"
+     fill="#fff"
+     opacity=".7"
+     id="path60" />
+  <path
+     d="m77 81.5-4 2v-21l4-2z"
+     fill="#39c"
+     id="path62" />
+  <path
+     d="m77 64.5-4 2v-4l4-2z"
+     fill="#262626"
+     opacity=".15"
+     id="path64" />
+  <path
+     d="m77 62.5-4 2v-2l4-2z"
+     fill="#262626"
+     opacity=".15"
+     id="path66" />
+  <path
+     d="m77 61.5-4 2v-1l4-2z"
+     fill="#262626"
+     opacity=".15"
+     id="path68" />
+  <path
+     d="m77 67.5-4 2v-1l4-2z"
+     fill="#262626"
+     opacity=".15"
+     id="path70" />
+  <path
+     d="m77 66.5-4 2v-1l4-2z"
+     fill="#fff"
+     opacity=".7"
+     id="path72" />
+  <path
+     d="m83 78.5-4 2v-21l4-2z"
+     fill="#39c"
+     id="path74" />
+  <path
+     d="m83 61.5-4 2v-4l4-2z"
+     fill="#262626"
+     opacity=".15"
+     id="path76" />
+  <path
+     d="m83 59.5-4 2v-2l4-2z"
+     fill="#262626"
+     opacity=".15"
+     id="path78" />
+  <path
+     d="m83 58.5-4 2v-1l4-2z"
+     fill="#262626"
+     opacity=".15"
+     id="path80" />
+  <path
+     d="m83 64.5-4 2v-1l4-2z"
+     fill="#262626"
+     opacity=".15"
+     id="path82" />
+  <path
+     d="m83 63.5-4 2v-1l4-2z"
+     fill="#fff"
+     opacity=".7"
+     id="path84" />
+  <path
+     d="m89 75.5-4 2v-21l4-2z"
+     fill="#39c"
+     id="path86" />
+  <path
+     d="m89 75.5-3 1.5v-21l3-1.5z"
+     fill="#fff"
+     opacity=".2"
+     id="path88" />
+  <path
+     d="m89 58.5-4 2v-4l4-2z"
+     fill="#262626"
+     opacity=".15"
+     id="path90" />
+  <path
+     d="m89 56.5-4 2v-2l4-2z"
+     fill="#262626"
+     opacity=".15"
+     id="path92" />
+  <path
+     d="m89 55.5-4 2v-1l4-2z"
+     fill="#262626"
+     opacity=".15"
+     id="path94" />
+  <path
+     d="m89 61.5-4 2v-1l4-2z"
+     fill="#262626"
+     opacity=".15"
+     id="path96" />
+  <path
+     d="m89 60.5-4 2v-1l4-2z"
+     fill="#fff"
+     opacity=".7"
+     id="path98" />
+  <path
+     d="m95 72.5-4 2v-21l4-2z"
+     fill="#39c"
+     id="path100" />
+  <path
+     d="m95 55.5-4 2v-4l4-2z"
+     fill="#262626"
+     opacity=".15"
+     id="path102" />
+  <path
+     d="m95 53.5-4 2v-2l4-2z"
+     fill="#262626"
+     opacity=".15"
+     id="path104" />
+  <path
+     d="m95 52.5-4 2v-1l4-2z"
+     fill="#262626"
+     opacity=".15"
+     id="path106" />
+  <path
+     d="m95 58.5-4 2v-1l4-2z"
+     fill="#262626"
+     opacity=".15"
+     id="path108" />
+  <path
+     d="m95 57.5-4 2v-1l4-2z"
+     fill="#fff"
+     opacity=".7"
+     id="path110" />
+  <path
+     d="m94 48-3 1.5v-22l3-1.5z"
+     fill="#fff"
+     opacity=".2"
+     id="path112" />
+  <path
+     d="m76 57-3 1.5v-22l3-1.5z"
+     fill="#fff"
+     opacity=".2"
+     id="path114" />
+  <path
+     d="m71 59.5-3 1.5v-22l3-1.5z"
+     fill="#fff"
+     opacity=".1"
+     id="path116" />
+  <path
+     d="m96 28-48 24v-3l48-24z"
+     fill="#262626"
+     opacity=".15"
+     id="path118" />
+  <path
+     d="m96 26-48 24v-1l48-24z"
+     fill="#262626"
+     opacity=".15"
+     id="path120" />
+  <g
+     fill="#fff"
+     id="g140">
+    <path
+       d="m49 70.5-1 .5v-22l1-.5z"
+       opacity=".7"
+       id="path122" />
+    <path
+       d="m61 64.5-2 1v-22l2-1z"
+       opacity=".7"
+       id="path124" />
+    <path
+       d="m67 61.5-2 1v-22l2-1z"
+       opacity=".7"
+       id="path126" />
+    <path
+       d="m55 67.5-2 1v-22l2-1z"
+       opacity=".7"
+       id="path128" />
+    <path
+       d="m79 55.5-2 1v-22l2-1z"
+       opacity=".7"
+       id="path130" />
+    <path
+       d="m85 52.5-2 1v-22l2-1z"
+       opacity=".7"
+       id="path132" />
+    <path
+       d="m91 49.5-2 1v-22l2-1z"
+       opacity=".7"
+       id="path134" />
+    <path
+       d="m73 58.5-2 1v-22l2-1z"
+       opacity=".7"
+       id="path136" />
+    <path
+       d="m96 47-1 .5v-22l1-.5z"
+       opacity=".7"
+       id="path138" />
+  </g>
+  <path
+     d="m48 96 48-24v-48l-48 24z"
+     opacity=".29"
+     id="path276" />
+</svg>
