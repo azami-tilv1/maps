@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="18.188599mm"
+   height="29.556473mm"
+   viewBox="0 0 18.188598 29.556473"
+   version="1.1"
+   id="svg581"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="concrete-factory-5.svg">
+  <defs
+     id="defs575" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.12374369"
+     inkscape:cx="-2096.8185"
+     inkscape:cy="-131.62127"
+     inkscape:document-units="mm"
+     inkscape:current-layer="svg581"
+     showgrid="false"
+     inkscape:window-width="1360"
+     inkscape:window-height="706"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata578">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-410.03394,519.73264)" />
+  <g
+     id="i404"
+     class="top-level-node"
+     transform="matrix(0.37892914,0,0,0.37892914,0,-0.75785828)">
+    <g
+       id="g749">
+      <g
+         id="g747">
+        <path
+           d="M 48,66 16,2 14,3 V 7 L 3.6,12.2 2,9 0,10 v 6 l 32,64 16,-8 z"
+           id="path737"
+           inkscape:connector-curvature="0"
+           style="fill:#999999" />
+        <path
+           d="M 14,7 46,71 V 67 L 14,3 Z"
+           id="path739"
+           inkscape:connector-curvature="0"
+           style="opacity:0.11000001" />
+        <path
+           d="M 0,16 32,80 V 74 L 0,10 Z"
+           id="path741"
+           inkscape:connector-curvature="0"
+           style="opacity:0.11000001" />
+        <path
+           d="m 46,67 v 4 l -12,6 v -4 l -2,1 v 6 l 16,-8 v -6 z"
+           id="path743"
+           inkscape:connector-curvature="0"
+           style="opacity:0.28999999" />
+        <path
+           d="m 19.5,6.2 h 8.9 v 71.6 h -8.9 z"
+           transform="matrix(-0.8944,0.4472,-0.4472,-0.8944,64.2492,68.8328)"
+           id="path745"
+           inkscape:connector-curvature="0"
+           style="fill:#2d3134" />
+      </g>
+    </g>
+  </g>
+</svg>
